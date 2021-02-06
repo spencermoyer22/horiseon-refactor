@@ -20,6 +20,9 @@ anyone with a disability that needs to use screen reading can get the informatio
 * HTML
 * CSS
 
+## Screenshot
+![Horiseon Landing Page](assets/images/landing-page.png)
+
 ## Website
 https://spencermoyer22.github.io/horiseon-refactor/
 
