@@ -22,6 +22,8 @@ anyone with a disability that needs to use screen reading can get the informatio
 
 ## Screenshot
 ![Horiseon Landing Page](assets/images/landing-page.png)
+> This screenshot shows the lading page for Horiseon. In the image you can see the header containing three links in the top right which direct you
+to the three different sections of the webpage.
 
 ## Website
 https://spencermoyer22.github.io/horiseon-refactor/
